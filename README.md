@@ -11,7 +11,7 @@ This is a graphical Rock-Paper-Scissors game built using Python's `tkinter` libr
 - **Score Keeping:** The game keeps track of the user and computer scores.
 - **Visual Elements:** Custom images are used for the background and choices.
 
-## Technologies Used
+## Libraries Used
 
 - **Python**: The core programming language used for logic and GUI development.
 - **tkinter**: The standard Python library for GUI applications.
